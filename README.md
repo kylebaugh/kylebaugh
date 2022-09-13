@@ -4,7 +4,7 @@
 
 ### I graduated from the Web Development program at Devmountain in July of 2021, which is where I currently work as a Lead Instructor for their Foundations program. 
 
-###When I'm not coding, you can find me on the stage, reading, or spending time with my wonderful dog
+### When I'm not coding, you can find me on the stage, reading, or spending time with my wonderful dog.
  
 ---
 
@@ -23,13 +23,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
 </div>
 
-
-heroku
-
 ---
 <div align="center">
   <a href="https://www.linkedin.com/in/kyle-baugh/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" width="140"/>
   </a>
  </div>
 
